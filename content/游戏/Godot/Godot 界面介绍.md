@@ -1,6 +1,9 @@
-+++
-categories = ["游戏"]
-+++
+---
+title: Example Title
+draft: false
+tags:
+  - example-tag
+---
 
 > [编辑器手册](https://docs.godotengine.org/zh-cn/4.x/tutorials/editor/index.html#doc-editor-introduction)
 # 1、项目管理器

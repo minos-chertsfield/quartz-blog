@@ -1,9 +1,6 @@
----
-title: Example Title
-draft: false
-tags:
-  - example-tag
----
++++
+categories = ["游戏"]
++++
 
 > https://gdquest.github.io/learn-gdscript/?ref=godot-docs
 
