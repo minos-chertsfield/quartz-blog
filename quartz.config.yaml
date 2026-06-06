@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: mysite.github.io
+  baseUrl: https://quartz-blog-2ki.pages.dev/
   ignorePatterns:
     - private
     - templates
