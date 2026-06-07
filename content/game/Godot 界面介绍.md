@@ -1,8 +1,8 @@
 ---
-title: Example Title
+title: Game
 draft: false
 tags:
-  - example-tag
+  - game
 ---
 
 > [编辑器手册](https://docs.godotengine.org/zh-cn/4.x/tutorials/editor/index.html#doc-editor-introduction)

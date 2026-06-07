@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: zh-CN
   baseUrl: https://quartz-blog-2ki.pages.dev/
   ignorePatterns:
     - private
