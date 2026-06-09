@@ -6,7 +6,7 @@ name: Deploy to GitHub Pages
 on:
   # Triggers the workflow on push events for main/master branch
   push:
-    branches: [ "main", "master" ]
+    branches: ["main", "master"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -63,7 +63,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './public'
+          path: "./public"
 
   deploy:
     environment:
