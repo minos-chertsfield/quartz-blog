@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Quartz 5 
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: zh-CN
-  baseUrl: https://quartz-blog-2ki.pages.dev/
+  baseUrl: https://minos-chertsfield.github.io/quartz-blog/
   ignorePatterns:
     - private
     - templates
